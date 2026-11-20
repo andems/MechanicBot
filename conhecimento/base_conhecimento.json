@@ -1,0 +1,52 @@
+{
+  "artigos": [
+    {
+      "id": "freios-sinais",
+      "titulo": "Sistema de freios: sinais de atenção",
+      "topicos": ["freio", "freios", "pastilha", "disco", "pedal baixo", "ruído ao frear", "vibração"],
+      "conteudo": "Ruído agudo pode estar associado a pastilhas gastas, sujeira ou vitrificação; vibração ao frear pode estar relacionada a disco irregular ou folga no conjunto; pedal baixo ou esponjoso pode indicar ar, vazamento ou falha hidráulica. São hipóteses que precisam de inspeção. Perda de eficiência, vazamento ou pedal que afunda exigem parar em local seguro e não continuar dirigindo; solicite assistência."
+    },
+    {
+      "id": "motor-superaquecimento",
+      "titulo": "Motor superaquecendo",
+      "topicos": ["temperatura", "superaquecimento", "arrefecimento", "radiador", "líquido de arrefecimento", "ventoinha"],
+      "conteudo": "Temperatura acima do normal pode envolver baixo nível ou vazamento do líquido de arrefecimento, ventoinha, válvula termostática, bomba d'água ou radiador. Pare em local seguro, desligue o motor e aguarde esfriar. Nunca abra a tampa do sistema quente: há risco de queimadura. Não complete com o motor quente e procure inspeção se o alerta persistir."
+    },
+    {
+      "id": "oleo-pressao",
+      "titulo": "Luz de pressão do óleo",
+      "topicos": ["óleo", "pressão do óleo", "luz vermelha", "lubrificação"],
+      "conteudo": "Se a luz vermelha de pressão do óleo acender com o motor funcionando, pare assim que for seguro e desligue o motor. Continuar rodando pode causar dano grave. Nível baixo, vazamento, filtro, bomba ou sensor são possibilidades; verificar o nível não confirma a pressão real. Solicite diagnóstico profissional."
+    },
+    {
+      "id": "bateria-partida",
+      "titulo": "Bateria e dificuldade de partida",
+      "topicos": ["bateria", "partida", "não liga", "motor de arranque", "alternador", "luzes fracas"],
+      "conteudo": "Partida lenta e luzes enfraquecidas podem indicar bateria descarregada ou envelhecida, conexões oxidadas/soltas ou problema no sistema de carga/partida. Verifique apenas visualmente e com o veículo desligado. Teste de bateria e alternador com equipamento ajuda a diferenciar as causas. Evite encostar ferramentas entre os polos."
+    },
+    {
+      "id": "pneus-desgaste",
+      "titulo": "Pneus, pressão e desgaste",
+      "topicos": ["pneu", "pressão", "desgaste", "alinhamento", "balanceamento", "vibração"],
+      "conteudo": "Calibre os pneus frios conforme a etiqueta do veículo ou manual, inclusive estepe quando aplicável. Desgaste concentrado nas bordas, no centro ou em apenas um lado pode ter relação com pressão, alinhamento, suspensão ou hábitos de uso; não permite diagnóstico isolado. Bolha, lona aparente, corte profundo ou perda rápida de pressão exigem substituição/avaliação antes de rodar."
+    },
+    {
+      "id": "manutencao-preventiva",
+      "titulo": "Manutenção preventiva",
+      "topicos": ["revisão", "manutenção", "óleo", "filtro", "correia", "fluido"],
+      "conteudo": "Siga os intervalos por quilometragem e tempo do manual específico, considerando uso severo (poeira, carga, trânsito intenso, reboque e marcha lenta prolongada). Confira nível e condição de óleo e fluidos segundo o procedimento do fabricante, pneus, iluminação e limpadores. Trocas de correias, fluidos e filtros dependem do modelo e motor; não adote um intervalo universal sem consultar o manual."
+    },
+    {
+      "id": "caminhao-freio-ar",
+      "titulo": "Caminhões: sistema de freio pneumático",
+      "topicos": ["caminhão", "freio a ar", "pressão de ar", "reservatório", "vazamento de ar"],
+      "conteudo": "Em caminhões com freio pneumático, alerta de baixa pressão, tempo anormal de enchimento, vazamento audível ou atuação irregular requerem parada segura e inspeção por profissional habilitado. Não neutralize alarmes nem ajuste válvulas sem procedimento e qualificação adequados. Respeite os requisitos legais e do fabricante para o veículo e a composição."
+    },
+    {
+      "id": "motor-ruidos",
+      "titulo": "Ruídos e funcionamento irregular do motor",
+      "topicos": ["ruído", "batida", "motor falhando", "perda de potência", "fumaça", "luz da injeção"],
+      "conteudo": "Falhas, perda de potência, ruído novo ou fumaça podem ter causas em ignição, alimentação, sensores, admissão, escapamento ou componentes mecânicos. Anote quando ocorre, luzes acesas, temperatura e condições de uso. Um leitor OBD pode fornecer códigos, que orientam mas não identificam por si só a peça defeituosa. Ruído metálico intenso, fumaça abundante ou alerta vermelho justificam parar e pedir assistência."
+    }
+  ]
+}

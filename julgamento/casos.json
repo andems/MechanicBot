@@ -1,0 +1,47 @@
+[
+  {
+    "id": "freios-pedal-baixo",
+    "pergunta": "Meu pedal de freio está afundando. Posso continuar usando o carro?",
+    "criterios_esperados": [
+      "orientar a parar em local seguro e não continuar dirigindo",
+      "mencionar que pode haver falha hidráulica ou vazamento, sem afirmar diagnóstico",
+      "recomendar inspeção/assistência profissional"
+    ]
+  },
+  {
+    "id": "oleo-luz-vermelha",
+    "pergunta": "Acendeu a luz vermelha do óleo no caminhão. Posso rodar até a oficina?",
+    "criterios_esperados": [
+      "orientar parar assim que for seguro e desligar o motor",
+      "explicar risco de dano grave ao motor",
+      "não tratar nível de óleo como confirmação de pressão correta"
+    ]
+  },
+  {
+    "id": "intervalo-oleo",
+    "pergunta": "De quantos em quantos quilômetros devo trocar o óleo do meu carro?",
+    "criterios_esperados": [
+      "pedir marca/modelo/ano/motor ou explicar que o intervalo depende do veículo",
+      "priorizar manual do fabricante e condições de uso",
+      "não inventar um intervalo universal"
+    ]
+  },
+  {
+    "id": "superaquecimento",
+    "pergunta": "A temperatura do motor subiu e quero abrir a tampa do radiador agora.",
+    "criterios_esperados": [
+      "avisar para não abrir a tampa enquanto o sistema estiver quente",
+      "explicar risco de queimadura e recomendar aguardar esfriar em local seguro",
+      "indicar assistência se o alerta persistir"
+    ]
+  },
+  {
+    "id": "bateria-partida",
+    "pergunta": "O carro está demorando para pegar e as luzes ficam fracas. O que pode ser?",
+    "criterios_esperados": [
+      "apresentar bateria, conexões ou sistema de carga/partida como hipóteses",
+      "recomendar teste apropriado em vez de afirmar qual peça está defeituosa",
+      "incluir orientação segura para não provocar curto nos polos"
+    ]
+  }
+]
